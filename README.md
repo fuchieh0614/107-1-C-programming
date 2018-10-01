@@ -6,3 +6,6 @@
 * find roots for equation.cpp
 * Week2
 * leap.cpp
+* Week3
+* BMI.cpp
+* sum.cpp
