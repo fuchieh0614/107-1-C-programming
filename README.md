@@ -14,3 +14,5 @@
 * menu2.cpp
 * Week5
 * menu3.cpp
+* Week6
+* dayspassed.cpp
