@@ -1,7 +1,7 @@
 # 107-1-C-programming
 
-##Week 1
-* welcome.cpp
+## Week 1
+-[welcome.cpp](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 * tempconvert.cpp
 * find roots for equation.cpp
 * Week2
@@ -18,5 +18,5 @@
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mjk3NDc2M119
+eyJoaXN0b3J5IjpbLTE0MjYzMzI3NTFdfQ==
 -->
