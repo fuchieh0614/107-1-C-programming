@@ -1,6 +1,6 @@
 # 107-1-C-programming
 
-* Week1
+##Week 1
 * welcome.cpp
 * tempconvert.cpp
 * find roots for equation.cpp
@@ -17,3 +17,6 @@
 * Week6
 * dayspassed.cpp
 * sort.cpp
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE3Mjk3NDc2M119
+-->
