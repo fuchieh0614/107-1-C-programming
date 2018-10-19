@@ -227,12 +227,49 @@ Main Menu
 4. Exit
 =>
 ````
-* Week5
-* menu3.cpp
+For Isosceles Triangle
+````
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 3
+Enter height, type, filled: 6 1 0
+     *
+    * *
+   *   *
+  *     *
+ *       *
+***********
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 3
+Enter height, type, filled: 6 2 1
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=>
+````
+## Week 5
+- [menu3]()
+- 
+For leap:
 * Week6
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzkwMjQ3MCwtNjk1OTQzNzExLDE1Nz
-E4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbNTAxNjU4OTMsLTY5NTk0MzcxMSwxNTcxOD
+UxMDY1XX0=
 -->
