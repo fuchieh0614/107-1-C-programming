@@ -330,9 +330,26 @@ Main Menu
 =>
 ````
 ## Week 6
-- [dayspassed]()
-- [sort]()
+- [dayspassed](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w06/dayspassed.cpp)
+````
+Enter year: 2018
+Enter month and day: 10 16
+289 days passed since 1/1/2018
+Continue (Y/N)? y
+Enter year: 2020
+Enter month and day: 3 1
+61 days passed since 1/1/2020
+Continue (Y/N)? y
+Enter year: 2100
+Enter month and day: 3 1
+60 days passed since 1/1/2100
+Continue (Y/N)? n
+````
+- [sort](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w06/sort.cpp)
+````
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1Nz
-E4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODAzMzAyNDYsLTg5NTAyMzQ2NSwtNj
+k1OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
