@@ -33,6 +33,11 @@ Year 2020 is a leap year.
 Enter year: 2100
 Year 2100 is not a leap year.
 ````
+- [convert seconds](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w02/convert%20seconds.cpp)
+````
+Enter seconds: 20000 
+20000 seconds = 05:33:20
+````
 * Week3
 * BMI.cpp
 * sum.cpp
@@ -45,5 +50,5 @@ Year 2100 is not a leap year.
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDExMTIzNzMsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbODAwMzc4Mjc1LDE1NzE4NTEwNjVdfQ==
 -->
