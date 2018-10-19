@@ -71,11 +71,19 @@ Enter n1 n2: -1 -1
 ````
 - [leap year using while loop](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/leap%20year%20using%20while%20loop)
 ````
-Enter year: 2000 Year 2000 is a leap year. 
-Enter year: 2018 Year 2018 is not a leap year. 
-Enter year: 2020 Year 2020 is a leap year. 
-Enter year: 2100 Year 2100 is not a leap year. 
+Enter year: 2000 
+Year 2000 is a leap year. 
+Enter year: 2018 
+Year 2018 is not a leap year. 
+Enter year: 2020 
+Year 2020 is a leap year. 
+Enter year: 2100 
+Year 2100 is not a leap year. 
 Enter year: -1
+````
+- [convert seconds using while loop](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/convert%20seconds%20using%20while%20loop.cpp)
+````
+
 ````
 * Week4
 * menu.cpp
@@ -86,6 +94,6 @@ Enter year: -1
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTE5MDc5NywtNjk1OTQzNzExLDE1Nz
-E4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNjQ4MDEwODUsLTY5NTk0MzcxMSwxNT
+cxODUxMDY1XX0=
 -->
