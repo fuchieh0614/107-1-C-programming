@@ -1,4 +1,7 @@
 # 107-1-C-programming
+## Exercise
+
+
 
 ## Week 1
 - [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
@@ -347,9 +350,10 @@ Continue (Y/N)? n
 ````
 - [sort](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w06/sort.cpp)
 ````
-
+original:  34  78  12   9  87  66  88  99  56  11
+sorting :   9  11  12  34  56  66  78  87  88  99
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzMzAyNDYsLTg5NTAyMzQ2NSwtNj
+eyJoaXN0b3J5IjpbLTE0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNj
 k1OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
