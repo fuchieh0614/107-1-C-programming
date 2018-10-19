@@ -41,26 +41,26 @@ Enter seconds: 20000
 ## Week 3
 - [BMI](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/BMI.cpp)
 ````
-Enter height: 180
+Enter height: 170
 Enter weight: 90
 BMI=31.1
 中度肥胖
-Enter height: 180
+Enter height: 170
 Enter weight: 80
-BMI=31.1
-中度肥胖
-Enter height: 180
+BMI=27.7
+輕度肥胖
+Enter height: 170
 Enter weight: 70
-BMI=31.1
-中度肥胖
-Enter height: 180
-Enter weight: 90
-BMI=31.1
-中度肥胖
-Enter height: 180
-Enter weight: 90
-BMI=31.1
-中度肥胖
+BMI=24.2
+體重過重
+Enter height: 170
+Enter weight: 60
+BMI=20.8
+體重正常
+Enter height: 170
+Enter weight: 30
+BMI=10.4
+體重過輕
 ````
 * sum.cpp
 * Week4
@@ -72,6 +72,6 @@ BMI=31.1
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI1NDA2OTQsLTY5NTk0MzcxMSwxNT
+eyJoaXN0b3J5IjpbLTE3NDIwNjY1NTEsLTY5NTk0MzcxMSwxNT
 cxODUxMDY1XX0=
 -->
