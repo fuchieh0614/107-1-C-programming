@@ -93,8 +93,70 @@ Enter seconds: 100000
 100000 seconds = 27:46:40 
 Enter seconds: -1
 ````
-* Week4
-* menu.cpp
+## Week 4
+- [menu]()
+````
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 1
+Enter height and width: 5 8
+********
+*      *
+*      *
+*      *
+********
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 2
+Enter height and type: 5 1
+*
+**
+* *
+*  *
+*****
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 2
+Enter height and type: 5 2
+    *
+   **
+  * *
+ *  *
+*****
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 2
+Enter height and type: 5 3
+*****
+*  *
+* *
+**
+*
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 2
+Enter height and type: 5 4
+*****
+ *  *
+  * *
+   **
+    *
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Exit
+=> 3
+````
 * menu2.cpp
 * Week5
 * menu3.cpp
@@ -102,6 +164,6 @@ Enter seconds: -1
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTk4MzI0MCwtNjk1OTQzNzExLDE1Nz
+eyJoaXN0b3J5IjpbLTM5MzAyMTkxOCwtNjk1OTQzNzExLDE1Nz
 E4NTEwNjVdfQ==
 -->
