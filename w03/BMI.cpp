@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 int main(){
 	float height,weight;
 	double BMI;
