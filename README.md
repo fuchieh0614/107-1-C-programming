@@ -94,7 +94,7 @@ Enter seconds: 100000
 Enter seconds: -1
 ````
 ## Week 4
-- [menu]()
+- [menu](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w04/menu.cpp)
 ````
 Main Menu
 1. Rectangle
@@ -157,13 +157,17 @@ Main Menu
 3. Exit
 => 3
 ````
-* menu2.cpp
+- [menu2](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w04/menu2.cpp)
+
+````
+
+````
 * Week5
 * menu3.cpp
 * Week6
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzAyMTkxOCwtNjk1OTQzNzExLDE1Nz
+eyJoaXN0b3J5IjpbLTgyMzkzNTEyNywtNjk1OTQzNzExLDE1Nz
 E4NTEwNjVdfQ==
 -->
