@@ -62,7 +62,10 @@ Enter weight: 30
 BMI=10.4
 體重過輕
 ````
-* sum.cpp
+- [sum](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/sum.cpp)
+````
+
+````
 * Week4
 * menu.cpp
 * menu2.cpp
@@ -72,6 +75,6 @@ BMI=10.4
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIwNjY1NTEsLTY5NTk0MzcxMSwxNT
+eyJoaXN0b3J5IjpbLTIwOTI2OTUwOTUsLTY5NTk0MzcxMSwxNT
 cxODUxMDY1XX0=
 -->
