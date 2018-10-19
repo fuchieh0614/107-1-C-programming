@@ -263,7 +263,7 @@ Main Menu
 =>
 ````
 ## Week 5
-- [menu3]()
+- [menu3](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w05/menu3.cpp)
 
 For leap:
 ````
@@ -333,6 +333,6 @@ Main Menu
 - [dayspassed]()
 - [sort]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5Nzc1ODQ5LC02OTU5NDM3MTEsMTU3MT
-g1MTA2NV19
+eyJoaXN0b3J5IjpbLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1Nz
+E4NTEwNjVdfQ==
 -->
