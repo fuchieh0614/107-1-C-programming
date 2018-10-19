@@ -19,17 +19,14 @@ x1 = 1.0
 x2 = 0.5
 ````
 ##  Week 2
-- [leap](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w02/leap.cpp)
+- [leap year](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w02/leap.cpp)
 ````
 Enter year: 2000
 Year 2000 is a leap year.
-
 Enter year: 2018
 Year 2018 is not a leap year.
-
 Enter year: 2020
 Year 2020 is a leap year.
-
 Enter year: 2100
 Year 2100 is not a leap year.
 ````
@@ -72,7 +69,14 @@ Enter n1 n2: 10 100 sum(10,100) = 5005
 Enter n1 n2: 50 100 sum(50,100) = 3825 
 Enter n1 n2: -1 -1
 ````
-- [[leap year using while loop]
+- [leap year using while loop](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/leap%20year%20using%20while%20loop)
+````
+Enter year: 2000 Year 2000 is a leap year. 
+Enter year: 2018 Year 2018 is not a leap year. 
+Enter year: 2020 Year 2020 is a leap year. 
+Enter year: 2100 Year 2100 is not a leap year. 
+Enter year: -1
+````
 * Week4
 * menu.cpp
 * menu2.cpp
@@ -82,6 +86,6 @@ Enter n1 n2: -1 -1
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY0MjM0MTAsLTY5NTk0MzcxMSwxNT
-cxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbMTg0OTE5MDc5NywtNjk1OTQzNzExLDE1Nz
+E4NTEwNjVdfQ==
 -->
