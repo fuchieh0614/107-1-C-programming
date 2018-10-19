@@ -39,7 +39,8 @@ Enter seconds: 20000
 20000 seconds = 05:33:20
 ````
 ## Week 3
-* BMI.cpp
+- [BMI](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/BMI.cpp)
+
 * sum.cpp
 * Week4
 * menu.cpp
@@ -50,5 +51,6 @@ Enter seconds: 20000
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbLTE0NjE3NTI4NjYsLTY5NTk0MzcxMSwxNT
+cxODUxMDY1XX0=
 -->
