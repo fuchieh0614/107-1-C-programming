@@ -1,7 +1,7 @@
 # 107-1-C-programming
 
 ## Week 1
-- [welcome.](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
+- [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 ````
 Welcome to C Programming 
 My name is FuChiehChuang
@@ -18,8 +18,8 @@ For equation 2 x^2 -3 x + 1 =0, two roots are
 x1 = 1.0 
 x2 = 0.5
 ````
-* Week2
-* leap.cpp
+##  Week 2
+- [leap]()
 * Week3
 * BMI.cpp
 * sum.cpp
@@ -32,5 +32,5 @@ x2 = 0.5
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbMTg1MjMxMDQwMCwxNTcxODUxMDY1XX0=
 -->
