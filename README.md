@@ -159,8 +159,73 @@ Main Menu
 ````
 - [menu2](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w04/menu2.cpp)
 
+For Rectangle
 ````
-
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 1
+Enter height, width, filled: 5 8 0
+********
+*      *
+*      *
+*      *
+********
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 1
+Enter height, width, filled: 5 8 1
+********
+********
+********
+********
+********
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=>
+````
+For Vertical Triangle
+````
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 2
+Enter height, type, filled: 6 1 0
+*
+**
+* *
+*  *
+*   *
+******
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=> 2
+Enter height, type, filled: 6 1 1
+*
+**
+***
+****
+*****
+******
+Main Menu
+1. Rectangle
+2. Vertical Triangle
+3. Tsosceles Triangle
+4. Exit
+=>
 ````
 * Week5
 * menu3.cpp
@@ -168,6 +233,6 @@ Main Menu
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzkzNTEyNywtNjk1OTQzNzExLDE1Nz
+eyJoaXN0b3J5IjpbMTQ5NzkwMjQ3MCwtNjk1OTQzNzExLDE1Nz
 E4NTEwNjVdfQ==
 -->
