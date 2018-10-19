@@ -1,6 +1,7 @@
 # 107-1-C-programming
 ## Exercise
-- [Vertical Triangle.cpp]
+- [Vertical Triangle](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/Vertical%20Triangle.cpp)
+- [Multiplication table]()
 
 
 ## Week 1
@@ -354,6 +355,6 @@ original:  34  78  12   9  87  66  88  99  56  11
 sorting :   9  11  12  34  56  66  78  87  88  99
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjU3MTQwNywtMTQxNzYxMzU0MSwtOD
-k1MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbLTE2ODAxMCwtMTQxNzYxMzU0MSwtODk1MD
+IzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
 -->
