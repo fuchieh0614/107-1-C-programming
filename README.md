@@ -19,23 +19,7 @@ x1 = 1.0
 x2 = 0.5
 ````
 ##  Week 2
-- [leap](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w02/leap.cpp)
-````
-```
-Enter year: 2000
-Year 2000 is a leap year.
-```
-
-Enter year: 2018
-Year 2018 is not a leap year.
-
-Enter year: 2020
-Year 2020 is a leap year.
-
-Enter year: 2100
-Year 2100 is not a leap year.
-
-````
+* leap.cpp
 * Week3
 * BMI.cpp
 * sum.cpp
@@ -48,5 +32,5 @@ Year 2100 is not a leap year.
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc2ODA3NTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbLTE5MDQwMTU5NzMsMTU3MTg1MTA2NV19
 -->
