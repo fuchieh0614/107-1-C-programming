@@ -83,7 +83,15 @@ Enter year: -1
 ````
 - [convert seconds using while loop](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/convert%20seconds%20using%20while%20loop.cpp)
 ````
-
+Enter seconds: 20000 
+20000 seconds = 05:33:20 
+Enter seconds: 10000 
+10000 seconds = 02:46:40 
+Enter seconds: 30000 
+30000 seconds = 08:20:00 
+Enter seconds: 100000 
+100000 seconds = 27:46:40 
+Enter seconds: -1
 ````
 * Week4
 * menu.cpp
@@ -94,6 +102,6 @@ Enter year: -1
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ4MDEwODUsLTY5NTk0MzcxMSwxNT
-cxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbMTIxNTk4MzI0MCwtNjk1OTQzNzExLDE1Nz
+E4NTEwNjVdfQ==
 -->
