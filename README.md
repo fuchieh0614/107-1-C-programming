@@ -38,7 +38,7 @@ Year 2100 is not a leap year.
 Enter seconds: 20000 
 20000 seconds = 05:33:20
 ````
-* Week3
+## Week 3
 * BMI.cpp
 * sum.cpp
 * Week4
@@ -50,5 +50,5 @@ Enter seconds: 20000
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwMzc4Mjc1LDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
 -->
