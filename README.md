@@ -264,12 +264,75 @@ Main Menu
 ````
 ## Week 5
 - [menu3]()
-- 
+
 For leap:
-* Week6
-* dayspassed.cpp
-* sort.cpp
+````
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2000
+Year 2000 is a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2018
+Year 2018 is not a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2020
+Year 2020 is a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 1
+Enter year: 2100
+Year 2100 is not a leap year.
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=>
+````
+For timeconvert
+````
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 2
+Enter hh:mm:ss 10:10:10
+10:10:10 = 36610 seconds
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=> 2
+Enter hh:mm:ss 0:30:10
+00:30:10 = 1810 seconds
+
+Main Menu
+1. leap
+2. timeconvert
+3. Exit
+=>
+````
+## Week 6
+- [dayspassed]()
+- [sort]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjU4OTMsLTY5NTk0MzcxMSwxNTcxOD
-UxMDY1XX0=
+eyJoaXN0b3J5IjpbOTU5Nzc1ODQ5LC02OTU5NDM3MTEsMTU3MT
+g1MTA2NV19
 -->
