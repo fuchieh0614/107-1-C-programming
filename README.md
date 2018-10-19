@@ -61,11 +61,18 @@ Enter height: 170
 Enter weight: 30
 BMI=10.4
 體重過輕
+Enter height: -1
+Enter weight: -1
 ````
 - [sum](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w03/sum.cpp)
 ````
-
+Enter n1 n2: 1 10 sum(1,10) = 55 
+Enter n1 n2: 5 10 sum(5,10) = 45 
+Enter n1 n2: 10 100 sum(10,100) = 5005 
+Enter n1 n2: 50 100 sum(50,100) = 3825 
+Enter n1 n2: -1 -1
 ````
+- [[leap year using while loop]
 * Week4
 * menu.cpp
 * menu2.cpp
@@ -75,6 +82,6 @@ BMI=10.4
 * dayspassed.cpp
 * sort.cpp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI2OTUwOTUsLTY5NTk0MzcxMSwxNT
+eyJoaXN0b3J5IjpbLTE3NjY0MjM0MTAsLTY5NTk0MzcxMSwxNT
 cxODUxMDY1XX0=
 -->
