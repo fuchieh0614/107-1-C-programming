@@ -374,16 +374,16 @@ rsum(10)=55
 //n is odd
 // sumodd1(n) = 1+3+5+...(2n-1)
 // sumodd2(n) = 1+3+5+...n
+
 Enter n: 5
 sumodd1(5) = 25;
 sumodd2(5) = 9;
-
 Enter n: 9
 sumodd1(9) = 81;
 sumodd2(9) = 25;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTUwMTU2LC0xMjk0MjAzNzUxLC0xND
-E3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0MzcxMSwxNTcxODUx
-MDY1XX0=
+eyJoaXN0b3J5IjpbLTE2MTc1OTE5NjAsLTEyOTQyMDM3NTEsLT
+E0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4
+NTEwNjVdfQ==
 -->
