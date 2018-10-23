@@ -381,9 +381,9 @@ sumodd2(5) = 9;
 Enter n: 9
 sumodd1(9) = 81;
 sumodd2(9) = 25;
-```
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc1OTE5NjAsLTEyOTQyMDM3NTEsLT
+eyJoaXN0b3J5IjpbLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLT
 E0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4
 NTEwNjVdfQ==
 -->
