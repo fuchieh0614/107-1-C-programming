@@ -352,7 +352,26 @@ Continue (Y/N)? n
 original:  34  78  12   9  87  66  88  99  56  11
 sorting :   9  11  12  34  56  66  78  87  88  99
 ````
+## Week 7
+- [sum(n)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/sum(n).cpp)
+````
+Enter n: 10
+sum(10)=55
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+rsum(10)=55
+````
+-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLT
-g5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbMTY0NTMyNDg0OCwtMTI5NDIwMzc1MSwtMT
+QxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1
+MTA2NV19
 -->
