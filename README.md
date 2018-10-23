@@ -369,9 +369,21 @@ sum(10)=55
 1
 rsum(10)=55
 ````
--
+- [sumodd](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/sumodd.cpp)
+````
+//n is odd
+// sumodd1(n) = 1+3+5+...(2n-1)
+// sumodd2(n) = 1+3+5+...n
+Enter n: 5
+sumodd1(5) = 25;
+sumodd2(5) = 9;
+
+Enter n: 9
+sumodd1(9) = 81;
+sumodd2(9) = 25;
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTMyNDg0OCwtMTI5NDIwMzc1MSwtMT
-QxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1
-MTA2NV19
+eyJoaXN0b3J5IjpbMTM1NTUwMTU2LC0xMjk0MjAzNzUxLC0xND
+E3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0MzcxMSwxNTcxODUx
+MDY1XX0=
 -->
