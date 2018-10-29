@@ -459,8 +459,9 @@ A -> B
 C -> B
 ````
 ## Week8
+- [magic](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w08/magic.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3NjM5MDY5LC0yMDU4MzUxMjIwLC0xMj
+eyJoaXN0b3J5IjpbNDM4NDMzNjMwLC0yMDU4MzUxMjIwLC0xMj
 k0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0
 MzcxMSwxNTcxODUxMDY1XX0=
 -->
