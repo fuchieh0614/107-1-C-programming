@@ -459,7 +459,7 @@ A -> C
 A -> B
 C -> B
 ````
-## Week8
+## Week 8
 - [magic square](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w08/magic.cpp)
 ````
 Diagonal Move
@@ -477,7 +477,8 @@ Knight Move
  23  12   1  20   9
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMj
-A1ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1
-MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbLTE5NDE5NTY0MzMsLTY3MDIwNDU5NSwtMT
+I5NjA2NTc4MywtMjA1ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQx
+NzYxMzU0MSwtODk1MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1MT
+A2NV19
 -->
