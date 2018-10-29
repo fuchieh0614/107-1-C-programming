@@ -2,6 +2,7 @@
 ## Exercise
 - [Vertical Triangle](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/Vertical%20Triangle.cpp)
 - [Multiplication table](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/Multiplication%20table.cpp)
+- [bin2dec](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/bin2dec.cpp)
 ## Week 1
 - [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 ````
@@ -476,7 +477,7 @@ Knight Move
  23  12   1  20   9
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTYwNjU3ODMsLTIwNTgzNTEyMjAsLT
-EyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1
-OTQzNzExLDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMj
+A1ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1
+MDIzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
 -->
