@@ -404,10 +404,63 @@ gcd(48,48) = 48
 ````
 - [Hanoi tower -- six functions](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/ht.cpp)
 ````
+tower1(n,from,aux,to)
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
 
+tower2(n,to,aux,from)
+C -> A
+C -> B
+A -> B
+C -> A
+B -> C
+B -> A
+C -> A
+
+tower3(n,from,to,aux)
+A -> B
+A -> C
+B -> C
+A -> B
+C -> A
+C -> B
+A -> B
+
+tower4(n,to,from,aux)
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+
+tower5(n,aux,from,to)
+B -> C
+B -> A
+C -> A
+B -> C
+A -> B
+A -> C
+B -> C
+
+tower6(n,aux,to,from)
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
 ````
+## Week8
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzU2NzAzNCwtMjA1ODM1MTIyMCwtMT
-I5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5
-NDM3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbNjg3NjM5MDY5LC0yMDU4MzUxMjIwLC0xMj
+k0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0
+MzcxMSwxNTcxODUxMDY1XX0=
 -->
