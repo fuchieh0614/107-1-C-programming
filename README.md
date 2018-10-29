@@ -388,9 +388,26 @@ fib(3) = 2
 fib(10) = 55
 fib(30) = 832040
 ````
--[rgcd(a,b) using recursion &gcd(a,b) using iteration (for loop)]()
+- [rgcd(a,b) using recursion &gcd(a,b) using iteration (for loop)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/gcd.cpp)
+````
+rgcd(48,126) = 6
+gcd(48,126) = 6
+
+rgcd(48,128) = 16
+gcd(48,128) = 16
+
+rgcd(48,144) = 48
+gcd(48,144) = 48
+
+rgcd(48,48) = 48
+gcd(48,48) = 48
+````
+- [Hanoi tower -- six functions](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/ht.cpp)
+````
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzODM1MzQ1LC0yMDU4MzUxMjIwLC0xMj
-k0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0
-MzcxMSwxNTcxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbMTU3MzU2NzAzNCwtMjA1ODM1MTIyMCwtMT
+I5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5
+NDM3MTEsMTU3MTg1MTA2NV19
 -->
