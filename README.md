@@ -382,8 +382,12 @@ Enter n: 9
 sumodd1(9) = 81;
 sumodd2(9) = 25;
 ````
+-[Fib(n)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/fib.cpp)
+````
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLT
-E0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4
-NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbLTIwNjk0MDQwMDksLTIwNTgzNTEyMjAsLT
+EyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1
+OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
