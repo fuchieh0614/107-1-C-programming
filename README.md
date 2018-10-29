@@ -382,12 +382,15 @@ Enter n: 9
 sumodd1(9) = 81;
 sumodd2(9) = 25;
 ````
--[Fib(n)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/fib.cpp)
+- [Fib(n)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w07/fib.cpp)
 ````
-
+fib(3) = 2
+fib(10) = 55
+fib(30) = 832040
 ````
+-[rgcd(a,b) using recursion &gcd(a,b) using iteration (for loop)]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk0MDQwMDksLTIwNTgzNTEyMjAsLT
-EyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMzQ2NSwtNjk1
-OTQzNzExLDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbNTUzODM1MzQ1LC0yMDU4MzUxMjIwLC0xMj
+k0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0
+MzcxMSwxNTcxODUxMDY1XX0=
 -->
