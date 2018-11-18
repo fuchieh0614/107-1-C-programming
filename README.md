@@ -478,9 +478,25 @@ Knight Move
 ````
 ## Week 9
 - [date](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w09/date.cpp)
+````
+Enter N: 10
+
+2018/12/11
+2011/06/08
+2015/07/24
+2010/06/29
+2015/04/11
+2017/08/08
+2019/01/28
+2017/03/30
+2016/11/31
+2015/03/25
+````
+- [lotto](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w09/lotto.cpp)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI3ODA2NjQsLTE5NDE5NTY0MzMsLT
-Y3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1ODM1MTIyMCwtMTI5
-NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5ND
-M3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbLTE0MzkyMjE2OCwtMTk0MTk1NjQzMywtNj
+cwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4MzUxMjIwLC0xMjk0
+MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUsLTY5NTk0Mz
+cxMSwxNTcxODUxMDY1XX0=
 -->
