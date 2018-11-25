@@ -3,6 +3,9 @@
 - [Vertical Triangle](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/Vertical%20Triangle.cpp)
 - [Multiplication table](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/Multiplication%20table.cpp)
 - [bin2dec](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/bin2dec.cpp)
+## UVA
+- [UVA 100](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20100.cpp)
+- [UVA 256](
 ## Week 1
 - [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 ````
@@ -508,8 +511,8 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzM3NDQ0NTgsLTE5NDE5NTY0MzMsLT
-Y3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1ODM1MTIyMCwtMTI5
-NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5ND
-M3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbLTEwMTgyNTg1MDksLTE3NzM3NDQ0NTgsLT
+E5NDE5NTY0MzMsLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1
+ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MD
+IzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
 -->
