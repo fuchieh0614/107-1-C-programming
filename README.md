@@ -516,7 +516,7 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 ## Week 11
-- [Knight Tour -- 有路就走](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/KnightTour.cpp)
+- [Knight Tour - Have a way to go](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/KnightTour.cpp)
 ````
  0  8 19 44 11  6  3 14
 20 43 10  7  2 13 38  5
@@ -529,7 +529,7 @@ Enter N: 10
 
 Total moves: 44
 ````
-- [Knight Tour_smart move](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/Knight%20Tour_smart%20move.cpp)
+- [Knight Tour -- smart move](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/Knight%20Tour_smart%20move.cpp)
 ````
  1: (row,col)=(2,0)
 
@@ -546,11 +546,59 @@ Total moves: 64
 ````
 - [Knight Tour -- complete all 64 cases](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/Knight%20Tour%20--%20complete%20all%2064%20cases.cpp)
 ````
+ 1. Knight Tour by entering position
+2. Check 64 cases
+3. Exit
+=> choice: 1
+Enter row and col for number 1: 0 6
+The board for this test is:
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  19 |  16 |  27 |  42 |  21 |   6 |   1 |   4 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  28 |  41 |  20 |  17 |  26 |   3 |  22 |   7 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  15 |  18 |  43 |  40 |  57 |  24 |   5 |   2 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  44 |  29 |  58 |  25 |  46 |  53 |   8 |  23 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  33 |  14 |  45 |  62 |  39 |  56 |  47 |  52 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  30 |  63 |  32 |  59 |  54 |  51 |  38 |   9 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  13 |  34 |  61 |  50 |  11 |  36 |  55 |  48 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  31 |  12 |  35 |  60 |  49 |  10 |  37 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
 
+The tour ended with 64 moves.
+This was a full tour!
+
+Menu
+1. Knight Tour by entering position
+2. Check 64 cases
+3. Exit
+=> choice: 2
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
+|  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
+|-----|-----|-----|-----|-----|-----|-----|-----|
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjE0NDAyNywtMTc3Mzc0NDQ1OCwtMT
-k0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4
-MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMj
-M0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbOTQzODUwMjY2LC0xNzczNzQ0NDU4LC0xOT
+QxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYwNjU3ODMsLTIwNTgz
+NTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMz
+Q2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
