@@ -9,7 +9,8 @@
 - [UVA 488](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20488.cpp)
 - [UVA 913](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20913.cpp)
 - [UVA 10055](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%2010055.cpp)
-- [UVA 10071]
+- [UVA 10071](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%2010071.cpp)
+- [UVA 10107](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%2010107.cpp)
 ## Week 1
 - [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 ````
@@ -514,9 +515,11 @@ Enter N: 10
 2016/10/05   14 13 36 41 21 30
 2016/01/22   39 32 18 27 16 45
 ````
+## Week 11
+- []()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE4Mzg0NjMsLTE3NzM3NDQ0NTgsLT
-E5NDE5NTY0MzMsLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1
-ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MD
-IzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbNTY1Njk2MzUxLC0xNzczNzQ0NDU4LC0xOT
+QxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYwNjU3ODMsLTIwNTgz
+NTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMz
+Q2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
