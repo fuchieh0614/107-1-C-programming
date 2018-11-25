@@ -529,10 +529,28 @@ Enter N: 10
 
 Total moves: 44
 ````
-- [Knight Tour_smart move]()
+- [Knight Tour_smart move](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/Knight%20Tour_smart%20move.cpp)
+````
+ 1: (row,col)=(2,0)
+
+23  2 21 18 25  4 37 54
+20 17 24  3 38 53 26  5
+ 1 22 19 42 27 36 55 52
+16 43 28 39 56 63  6 35
+29 12 47 64 41 58 51 62
+44 15 40 57 48 61 34  7
+11 30 13 46  9 32 59 50
+14 45 10 31 60 49  8 33
+
+Total moves: 64
+````
+- [Knight Tour -- complete all 64 cases](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/Knight%20Tour%20--%20complete%20all%2064%20cases.cpp)
+````
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkxMTEyNzMsLTE3NzM3NDQ0NTgsLT
-E5NDE5NTY0MzMsLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1
-ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MD
-IzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbMTkxMjE0NDAyNywtMTc3Mzc0NDQ1OCwtMT
+k0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4
+MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMj
+M0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
 -->
