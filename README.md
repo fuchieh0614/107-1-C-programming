@@ -516,10 +516,22 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 ## Week 11
-- []()
+- [KnightTour(https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/KnightTour.cpp)
+````
+ 0  8 19 44 11  6  3 14
+20 43 10  7  2 13 38  5
+ 9 18  1 12 37  4 15 28
+ 0 21 42 31 16 27 36 39
+ 0 32 17  0 35 40 29 26
+22  0 34 41 30 25  0  0
+33  0  0 24  0  0  0  0
+ 0 23  0  0  0  0  0  0
+
+Total moves: 44
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1Njk2MzUxLC0xNzczNzQ0NDU4LC0xOT
-QxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYwNjU3ODMsLTIwNTgz
-NTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMz
-Q2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbMjE0NTM2Njc5NSwtMTc3Mzc0NDQ1OCwtMT
+k0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4
+MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMj
+M0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
 -->
