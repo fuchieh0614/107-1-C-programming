@@ -516,7 +516,7 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 ## Week 11
-- [Knight Tour - Have a way to go](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/KnightTour.cpp)
+- [Knight Tour -- Have a way to go](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w11/KnightTour.cpp)
 ````
  0  8 19 44 11  6  3 14
 20 43 10  7  2 13 38  5
@@ -597,8 +597,8 @@ Menu
 |-----|-----|-----|-----|-----|-----|-----|-----|
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzODUwMjY2LC0xNzczNzQ0NDU4LC0xOT
-QxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYwNjU3ODMsLTIwNTgz
-NTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEsLTg5NTAyMz
-Q2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
+eyJoaXN0b3J5IjpbMTcxOTIyNTIwNywtMTc3Mzc0NDQ1OCwtMT
+k0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4
+MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMj
+M0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
 -->
