@@ -5,7 +5,11 @@
 - [bin2dec](https://github.com/fuchieh0614/107-1-C-programming/blob/master/Exercise/bin2dec.cpp)
 ## UVA
 - [UVA 100](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20100.cpp)
-- [UVA 256](
+- [UVA 256](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20256.cpp)
+- [UVA 488](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20488.cpp)
+- [UVA 913](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20913.cpp)
+- [UVA 10055](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%2010055.cpp)
+- [UVA 10071]
 ## Week 1
 - [welcome](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w01/welcome.cpp)
 ````
@@ -511,7 +515,7 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgyNTg1MDksLTE3NzM3NDQ0NTgsLT
+eyJoaXN0b3J5IjpbLTE4MzE4Mzg0NjMsLTE3NzM3NDQ0NTgsLT
 E5NDE5NTY0MzMsLTY3MDIwNDU5NSwtMTI5NjA2NTc4MywtMjA1
 ODM1MTIyMCwtMTI5NDIwMzc1MSwtMTQxNzYxMzU0MSwtODk1MD
 IzNDY1LC02OTU5NDM3MTEsMTU3MTg1MTA2NV19
