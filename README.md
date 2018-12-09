@@ -631,11 +631,15 @@ Enter N: 10
 2016/01/22   39 32 18 27 16 45
 ````
 ## Week 13
-- [swap]()
+- [swap(int *pa, int *pb)](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w13/swap.cpp)
+````
+swap: 20 10
+main: 20 10
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM5NzAzMjAsMTcxOTIyNTIwNywtMT
-c3Mzc0NDQ1OCwtMTk0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2
-MDY1NzgzLC0yMDU4MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3Nj
-EzNTQxLC04OTUwMjM0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1
-XX0=
+eyJoaXN0b3J5IjpbLTk2OTQ4NTUzNCwxNzE5MjI1MjA3LC0xNz
+czNzQ0NDU4LC0xOTQxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYw
+NjU3ODMsLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MT
+M1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVd
+fQ==
 -->
