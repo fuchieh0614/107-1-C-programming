@@ -636,8 +636,71 @@ Enter N: 10
 swap: 20 10
 main: 20 10
 ````
+- [link_list_lotto](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w13/link_list_lotto.cpp)
+````
+Enter your choice:
+   1 to insert an element into the list.
+   2 to delete an element from the list.
+   3 to end.
+? 1
+
+Enter ID: 1000
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 4
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+NULL
+
+? 1
+
+Enter ID: 1002
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 8
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+
+Lotto ID: 1002
+   Date: 2018/12/8
+   Six winning numbers: 47 16 32 29 13 5
+NULL
+
+? 1
+
+Enter ID: 1001
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 6
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+
+Lotto ID: 1001
+   Date: 2018/12/6
+   Six winning numbers: 24 31 16 42 32 3
+
+Lotto ID: 1002
+   Date: 2018/12/8
+   Six winning numbers: 47 16 32 29 13 5
+NULL
+
+?
+````
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTQ4NTUzNCwxNzE5MjI1MjA3LC0xNz
+eyJoaXN0b3J5IjpbLTgwNjE3NzU5OSwxNzE5MjI1MjA3LC0xNz
 czNzQ0NDU4LC0xOTQxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYw
 NjU3ODMsLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MT
 M1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVd
