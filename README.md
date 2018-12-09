@@ -6,6 +6,7 @@
 ## UVA
 - [UVA 100](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20100.cpp)
 - [UVA 256](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20256.cpp)
+- [UVA 406](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20406.cpp)
 - [UVA 488](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20488.cpp)
 - [UVA 913](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%20913.cpp)
 - [UVA 10055](https://github.com/fuchieh0614/107-1-C-programming/blob/master/UVA/UVA%2010055.cpp)
@@ -700,9 +701,9 @@ NULL
 ````
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjE3NzU5OSwxNzE5MjI1MjA3LC0xNz
-czNzQ0NDU4LC0xOTQxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYw
-NjU3ODMsLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MT
-M1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVd
-fQ==
+eyJoaXN0b3J5IjpbLTM4NTk3OTc0MiwtODA2MTc3NTk5LDE3MT
+kyMjUyMDcsLTE3NzM3NDQ0NTgsLTE5NDE5NTY0MzMsLTY3MDIw
+NDU5NSwtMTI5NjA2NTc4MywtMjA1ODM1MTIyMCwtMTI5NDIwMz
+c1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5NDM3MTEs
+MTU3MTg1MTA2NV19
 -->
