@@ -3,9 +3,9 @@
 int main()
 {
     long long n;
-    while (scanf("%d",&n)!= EOF) {
+    while (scanf("%lld",&n)!= EOF) {
         n++;
-        printf("%d\n",3*n*n/2-9);
+        printf("%lld\n",3*n*n/2-9);
     }
     return 0;
 }
