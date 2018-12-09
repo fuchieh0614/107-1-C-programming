@@ -596,9 +596,15 @@ Menu
 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |  64 |
 |-----|-----|-----|-----|-----|-----|-----|-----|
 ````
+## Week 12
+- [Lotto adding winner](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
+````
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTIyNTIwNywtMTc3Mzc0NDQ1OCwtMT
-k0MTk1NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4
-MzUxMjIwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMj
-M0NjUsLTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbLTg3NzcxMjg5NiwxNzE5MjI1MjA3LC0xNz
+czNzQ0NDU4LC0xOTQxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYw
+NjU3ODMsLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MT
+M1NDEsLTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVd
+fQ==
 -->
