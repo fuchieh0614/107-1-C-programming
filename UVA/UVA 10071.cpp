@@ -2,10 +2,10 @@
 
 int main()
 {
-    int a,b;
-    while(scanf("%d %d",&a,&b)!=EOF)
+    long long a,b;
+    while(scanf("%lld %lld",&a,&b)!=EOF)
     {
-        printf("%d\n",2*a*b);
+        printf("%lld\n",2*a*b);
     }
     return 0;
 }
