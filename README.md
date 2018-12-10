@@ -699,11 +699,18 @@ NULL
 
 ?
 ````
-
+## Week 14
+- [String handling](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w14/String%20handling.cpp)
+````
+Hello World
+str1   : Hello World
+reverse: dlroW olleH
+copy   : Hello World
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTk3OTc0MiwtODA2MTc3NTk5LDE3MT
-kyMjUyMDcsLTE3NzM3NDQ0NTgsLTE5NDE5NTY0MzMsLTY3MDIw
-NDU5NSwtMTI5NjA2NTc4MywtMjA1ODM1MTIyMCwtMTI5NDIwMz
-c1MSwtMTQxNzYxMzU0MSwtODk1MDIzNDY1LC02OTU5NDM3MTEs
-MTU3MTg1MTA2NV19
+eyJoaXN0b3J5IjpbMTU1MzQ2Njc5NSwtMzg1OTc5NzQyLC04MD
+YxNzc1OTksMTcxOTIyNTIwNywtMTc3Mzc0NDQ1OCwtMTk0MTk1
+NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4MzUxMj
+IwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUs
+LTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
 -->
