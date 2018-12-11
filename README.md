@@ -707,10 +707,38 @@ str1   : Hello World
 reverse: dlroW olleH
 copy   : Hello World
 ````
+- [struct{int id; Date birth; char name}](https://github.com/fuchieh0614/107-1-C-programming/blob/master/w14/struct%7Bint%20id%3B%20Date%20birth%3B%20char%20name%7D.cpp)
+````
+Enter your choice:
+   1 to insert an element into the list.
+   2 to delete an element from the list.
+   3 to end.
+? 1
+Enter a id: 5
+Enter birthday: 2011 11 11
+Enter name: Jim Smith
+The list is:
+-->
+id=5, birthday=2011/11/11, name=Jim Smith
+NULL
+
+? 1
+Enter a id: 7
+Enter birthday: 2012 12 12
+Enter name: Amy Mary
+The list is:
+-->
+id=5, birthday=2011/11/11, name=Jim Smith
+-->
+id=7, birthday=2012/12/12, name=Amy Mary
+NULL
+
+?
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzQ2Njc5NSwtMzg1OTc5NzQyLC04MD
-YxNzc1OTksMTcxOTIyNTIwNywtMTc3Mzc0NDQ1OCwtMTk0MTk1
-NjQzMywtNjcwMjA0NTk1LC0xMjk2MDY1NzgzLC0yMDU4MzUxMj
-IwLC0xMjk0MjAzNzUxLC0xNDE3NjEzNTQxLC04OTUwMjM0NjUs
-LTY5NTk0MzcxMSwxNTcxODUxMDY1XX0=
+eyJoaXN0b3J5IjpbMTE1NzkzNDIxNSwxNTUzNDY2Nzk1LC0zOD
+U5Nzk3NDIsLTgwNjE3NzU5OSwxNzE5MjI1MjA3LC0xNzczNzQ0
+NDU4LC0xOTQxOTU2NDMzLC02NzAyMDQ1OTUsLTEyOTYwNjU3OD
+MsLTIwNTgzNTEyMjAsLTEyOTQyMDM3NTEsLTE0MTc2MTM1NDEs
+LTg5NTAyMzQ2NSwtNjk1OTQzNzExLDE1NzE4NTEwNjVdfQ==
 -->
